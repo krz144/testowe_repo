@@ -5,3 +5,6 @@ test.txt
 koniec
 
 modyfikacja 1
+
+modyfikacja 2, using nano editor built in git bash.
+Command: "nano test.txt" opens editor.
