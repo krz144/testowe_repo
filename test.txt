@@ -13,3 +13,7 @@ mod3 z pc1
 
 
 MOD Z PC 1
+
+
+
+COSTAM COSTAM MODYFIKACJA Z PC 2 gdzie na remote jest juz nowesza wersja z pc 1
