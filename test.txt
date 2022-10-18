@@ -8,3 +8,6 @@ modyfikacja 1
 
 modyfikacja 2, using nano editor built in git bash.
 Command: "nano test.txt" opens editor.
+
+ZMIANA Z PC 2 W TYM SAMYM PLIKU CO ZMODYFIKOWANY Z PC 1 
+i na remote origin juz jest wersja z pc1
