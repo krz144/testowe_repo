@@ -10,3 +10,6 @@ modyfikacja 2, using nano editor built in git bash.
 Command: "nano test.txt" opens editor.
 
 mod3 z pc1
+
+
+MOD Z PC 1
