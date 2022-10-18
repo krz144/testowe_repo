@@ -1,0 +1,1 @@
+drugi plik, utworzony przy pomocy cat > plik2.txt

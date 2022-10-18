@@ -3,3 +3,5 @@ zawartość testowa
 test.txt
 
 koniec
+
+modyfikacja 1
