@@ -1,0 +1,5 @@
+zawartość testowa 
+
+test.txt
+
+koniec
